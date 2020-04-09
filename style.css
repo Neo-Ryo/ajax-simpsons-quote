@@ -1,0 +1,9 @@
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+#btnquote {
+  align-self: center;
+  margin: 70px 100px;
+}
